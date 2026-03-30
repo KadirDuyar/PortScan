@@ -22,3 +22,15 @@ chmod +x port_scan.py
 
 
 
+
+📅 Yol Haritası (v3.0 Planları)
+[ ] SYN Scan: Raw socket kullanarak daha sessiz tarama modu.
+
+[ ] OS Fingerprinting: İşletim sistemi tahmini.
+
+[ ] JSON Çıktısı: Diğer araçlarla entegrasyon desteği.
+
+⚖️ Yasal Uyarı
+Önemli: Bu araç sadece eğitim ve yasal sızma testi süreçleri için geliştirilmiştir. Yetkiniz olmayan sistemlerde kullanılması yasal sorumluluk doğurabilir. Tüm sorumluluk kullanıcıya aittir.
+
+
