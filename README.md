@@ -11,8 +11,13 @@ Renkli CLI: Kullanıcı dostu, renk kodlu terminal arayüzü.
 
 🚀 Kurulum
 Herhangi bir harici kütüphane gerektirmez. Sadece Python 3.x yüklü olması yeterlidir.
-git clone https://github.com/kullaniciadin/portscan.git
+# Depoyu klonlayın
+git clone [https://github.com/kullaniciadin/portscan.git](https://github.com/kullaniciadin/portscan.git)
+
+# Proje dizinine girin
 cd portscan
+
+# Çalıştırma izni verin (Linux/Mac)
 chmod +x port_scan.py
 
 
